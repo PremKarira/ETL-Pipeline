@@ -1,5 +1,8 @@
 # Weather Data ETL Pipeline Development
 
+[![CI](https://github.com/PremKarira/ETL-Pipeline/actions/workflows/python-app.yml/badge.svg)](https://github.com/PremKarira/ETL-Pipeline/actions/workflows/python-app.yml)
+[![Coverage Status](https://coveralls.io/repos/github/PremKarira/ETL-Pipeline/badge.svg?branch=main)](https://coveralls.io/github/PremKarira/ETL-Pipeline?branch=main)
+
 ## Introduction
 
 Developed a Python-based ETL (Extract, Transform, Load) pipeline that extracts weather forecast data, performs transformations, and loads it into MySQL.
