@@ -1,0 +1,10 @@
+coverage==6.4
+mysql-connector-python==8.0.29
+pytest==7.1.2
+pytest-cov==3.0.0
+pytest-mock==3.7.0
+pytz==2022.1
+requests==2.27.1
+requests-mock==1.9.3
+schedule==1.1.0
+sorcery==0.2.2
